@@ -1,0 +1,4 @@
+<!--pages/home/home.wxml-->
+<text class="title">hello kiki</text>
+<button size="mini">hello</button>
+<image></image>
